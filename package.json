@@ -1,0 +1,21 @@
+{
+  "name": "tweetStream",
+  "version": "0.0.1",
+  "description": "Ejemplo de desarrollo de tweetsStream",
+  "author": "Evomatik",
+  "contributors": [{
+    "name": "Gibran cordoba",
+    "email": "o.cordobam@hotmail.com"
+  }],
+  "scripts": {
+  },
+  
+  "dependencies": {
+    "socket.io": "*",
+    "node-tweet-stream": "*",
+    "express":"*",
+    "config.json":"*",
+    "jade": "*"
+  },
+  "license": ""
+}
